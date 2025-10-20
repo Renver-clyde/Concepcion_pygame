@@ -17,8 +17,10 @@ How to play
 
 
 PS:
-its a shooting game also i forgot to put the my name as the creator in credits 
-also some of the file is just a draft like the images and the weapons. It will not be on the game 
+Its a shooting game also i forgot to put the my name as the creator in credits 
+Also some of the file is just a draft like the images and the weapons. It will not be on the game.
+Make sure all in one folder
+
 
 Art by: Rent0mori
 
