@@ -1,7 +1,6 @@
 # Concepcion_pygame
 How to play
 
-
 • Click spacebar to attack 
 
 • Click enter to use special move or skill 
